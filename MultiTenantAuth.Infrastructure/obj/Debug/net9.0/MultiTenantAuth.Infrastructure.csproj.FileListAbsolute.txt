@@ -1,0 +1,38 @@
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.deps.json
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.runtimeconfig.json
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.pdb
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Application.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Domain.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Domain.pdb
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Application.pdb
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.AssemblyInfo.cs
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTen.F2D46408.Up2Date
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\refint\MultiTenantAuth.Infrastructure.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.pdb
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.genruntimeconfig.cache
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\ref\MultiTenantAuth.Infrastructure.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.csproj.AssemblyReference.cache
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.AssemblyInfoInputs.cache
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.AssemblyInfo.cs
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\refint\MultiTenantAuth.Infrastructure.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.pdb
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.deps.json
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.runtimeconfig.json
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Infrastructure.pdb
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Application.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Domain.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Domain.pdb
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\bin\Debug\net9.0\MultiTenantAuth.Application.pdb
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTen.F2D46408.Up2Date
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\MultiTenantAuth.Infrastructure.genruntimeconfig.cache
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Infrastructure\obj\Debug\net9.0\ref\MultiTenantAuth.Infrastructure.dll

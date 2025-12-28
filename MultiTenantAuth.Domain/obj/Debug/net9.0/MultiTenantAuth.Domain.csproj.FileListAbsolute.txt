@@ -1,0 +1,24 @@
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\bin\Debug\net9.0\MultiTenantAuth.Domain.deps.json
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\bin\Debug\net9.0\MultiTenantAuth.Domain.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\bin\Debug\net9.0\MultiTenantAuth.Domain.pdb
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.csproj.AssemblyReference.cache
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.AssemblyInfoInputs.cache
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.AssemblyInfo.cs
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\refint\MultiTenantAuth.Domain.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.pdb
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\ref\MultiTenantAuth.Domain.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.csproj.AssemblyReference.cache
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.AssemblyInfoInputs.cache
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.AssemblyInfo.cs
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.csproj.CoreCompileInputs.cache
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\refint\MultiTenantAuth.Domain.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\MultiTenantAuth.Domain.pdb
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\bin\Debug\net9.0\MultiTenantAuth.Domain.deps.json
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\bin\Debug\net9.0\MultiTenantAuth.Domain.dll
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\bin\Debug\net9.0\MultiTenantAuth.Domain.pdb
+D:\Learning Project\asp.net core\scratch\MultiTenantAuth.Domain\obj\Debug\net9.0\ref\MultiTenantAuth.Domain.dll

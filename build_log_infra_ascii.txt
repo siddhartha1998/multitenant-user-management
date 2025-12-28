@@ -1,0 +1,19 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  MultiTenantAuth.Domain -> C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Domain\bin\Debug\net9.0\MultiTenantAuth.Domain.dll
+  MultiTenantAuth.Application -> C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Application\bin\Debug\net9.0\MultiTenantAuth.Application.dll
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(1,37): error CS0234: The type or namespace name 'EntityFrameworkCore' does not exist in the namespace 'Microsoft.AspNetCore.Identity' (are you missing an assembly reference?) [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(9,41): error CS0246: The type or namespace name 'IdentityDbContext<,,>' could not be found (are you missing a using directive or an assembly reference?) [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(9,89): error CS0535: 'ApplicationDbContext' does not implement interface member 'IApplicationDbContext.SaveChangesAsync(CancellationToken)' [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(11,76): error CS0311: The type 'MultiTenantAuth.Infrastructure.Persistence.ApplicationDbContext' cannot be used as type parameter 'TContext' in the generic type or method 'DbContextOptions<TContext>'. There is no implicit reference conversion from 'MultiTenantAuth.Infrastructure.Persistence.ApplicationDbContext' to 'Microsoft.EntityFrameworkCore.DbContext'. [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+
+Build FAILED.
+
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(1,37): error CS0234: The type or namespace name 'EntityFrameworkCore' does not exist in the namespace 'Microsoft.AspNetCore.Identity' (are you missing an assembly reference?) [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(9,41): error CS0246: The type or namespace name 'IdentityDbContext<,,>' could not be found (are you missing a using directive or an assembly reference?) [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(9,89): error CS0535: 'ApplicationDbContext' does not implement interface member 'IApplicationDbContext.SaveChangesAsync(CancellationToken)' [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\Persistence\ApplicationDbContext.cs(11,76): error CS0311: The type 'MultiTenantAuth.Infrastructure.Persistence.ApplicationDbContext' cannot be used as type parameter 'TContext' in the generic type or method 'DbContextOptions<TContext>'. There is no implicit reference conversion from 'MultiTenantAuth.Infrastructure.Persistence.ApplicationDbContext' to 'Microsoft.EntityFrameworkCore.DbContext'. [C:\Users\LEGION\.gemini\antigravity\scratch\MultiTenantAuth.Infrastructure\MultiTenantAuth.Infrastructure.csproj]
+    0 Warning(s)
+    4 Error(s)
+
+Time Elapsed 00:00:01.35
