@@ -20,7 +20,14 @@ namespace MultiTenantAuth.Api.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateRole([FromBody] CreateRoleDto dto)
         {
-            var result = await _permissionService.CreateRoleAsync(dto.Name, dto.Description, dto.TenantId);
+            var result = await _permissionService.CreateRoleAsync(dto.Name, dto.Description, dto.TenantId,dto.IsSystemRole);
+            return Ok(result);
+        }
+
+        [HttpPost("role-with-permissions")]
+        public async Task<IActionResult> CreateRoleWithPermissions([FromBody] CreateRoleWithPermissionDto dto)
+        {
+            var result = await _permissionService.CreateRoleWithPermissionAsync(dto);
             return Ok(result);
         }
 

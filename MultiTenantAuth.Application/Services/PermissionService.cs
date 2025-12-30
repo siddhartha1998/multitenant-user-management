@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using MultiTenantAuth.Application.DTOs;
 using MultiTenantAuth.Application.Interfaces;
 using MultiTenantAuth.Domain.Entities;
 using System;
@@ -108,7 +109,7 @@ namespace MultiTenantAuth.Application.Services
             return permission;
         }
 
-        public async Task<ApplicationRole> CreateRoleAsync(string name, string? description, Guid? tenantId)
+        public async Task<ApplicationRole> CreateRoleAsync(string name, string? description, Guid? tenantId, bool isSystemRole)
         {
             // If tenantId is provided, namespace the internal name
             var internalName = tenantId.HasValue ? $"{tenantId.Value}_{name}" : name;
@@ -117,8 +118,9 @@ namespace MultiTenantAuth.Application.Services
             { 
                 Name = internalName, 
                 Description = description,
-              //  TenantId = tenantId,
-                DisplayName = name // Use the provided name as DisplayName
+                TenantId = tenantId,
+                DisplayName = name, // Use the provided name as DisplayName
+                IsSystemRole = isSystemRole
             };
             
             var result = await _roleManager.CreateAsync(role);
@@ -126,6 +128,37 @@ namespace MultiTenantAuth.Application.Services
             {
                 throw new Exception(string.Join(", ", result.Errors.Select(e => e.Description)));
             }
+            return role;
+        }
+
+        public async Task<ApplicationRole> CreateRoleWithPermissionAsync(CreateRoleWithPermissionDto dto)
+        {
+            var internalName = dto.TenantId.HasValue ? $"{dto.TenantId.Value}_{dto.Name}" : dto.Name;
+
+            var role = new ApplicationRole
+            {
+                Name = internalName,
+                Description = dto.Description,
+                TenantId = dto.TenantId,
+                DisplayName = dto.Name, // Use the provided name as DisplayName
+                IsSystemRole = dto.IsSystemRole
+            };
+
+            var result = await _roleManager.CreateAsync(role);
+
+            if (!result.Succeeded)
+                throw new Exception(string.Join(",", result.Errors.Select(e => e.Description)));
+
+            foreach (var permissionId in dto.PermissionIds)
+            {
+                _context.RolePermissions.Add(new RolePermission
+                {
+                    RoleId = role.Id,
+                    PermissionId = permissionId
+                });
+            }
+
+            await _context.SaveChangesAsync();
             return role;
         }
         public async Task<IEnumerable<string>> GetUserPermissionsAsync(Guid userId, Guid tenantId)

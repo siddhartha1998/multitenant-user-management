@@ -1,61 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Learning Project\\asp.net core\\scratch\\",
+  "WorkspaceRootPath": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\services\\currentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\services\\currentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.application\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\interfaces\\icurrentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\interfaces\\icurrentusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\tenanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\tenanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{518E7C45-EDD5-4A53-932C-2B301C15EAAF}|MultiTenantAuth.Infrastructure\\MultiTenantAuth.Infrastructure.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{518E7C45-EDD5-4A53-932C-2B301C15EAAF}|MultiTenantAuth.Infrastructure\\MultiTenantAuth.Infrastructure.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{518E7C45-EDD5-4A53-932C-2B301C15EAAF}|MultiTenantAuth.Infrastructure\\MultiTenantAuth.Infrastructure.csproj|solutionrelative:multitenantauth.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.application\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\middleware\\currentusercontextmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\middleware\\currentusercontextmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\multitenantauth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\multitenantauth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.application\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{518E7C45-EDD5-4A53-932C-2B301C15EAAF}|MultiTenantAuth.Infrastructure\\MultiTenantAuth.Infrastructure.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518E7C45-EDD5-4A53-932C-2B301C15EAAF}|MultiTenantAuth.Infrastructure\\MultiTenantAuth.Infrastructure.csproj|solutionrelative:multitenantauth.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\multitenantauth.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\multitenantauth.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\dtos\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\dtos\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\enums\\userscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\enums\\userscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\tenanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\tenanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21F68-B820-4D72-9A81-3D262FF534D9}|MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj|solutionrelative:multitenantauth.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.application\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E3E86-22BF-453D-A9E2-F1753E7AE38C}|MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj|solutionrelative:multitenantauth.application\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\scratch\\multitenantauth.domain\\entities\\outlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|d:\\learning project\\asp.net core\\multitenant-user-management\\multitenantauth.domain\\entities\\outlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE9BCEFA-E4A1-4EA9-8EBB-7BF26A8B1BBC}|MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj|solutionrelative:multitenantauth.domain\\entities\\outlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -69,177 +137,411 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentUserContextMiddleware.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Middleware\\CurrentUserContextMiddleware.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\Middleware\\CurrentUserContextMiddleware.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Middleware\\CurrentUserContextMiddleware.cs",
+              "RelativeToolTip": "MultiTenantAuth.Api\\Middleware\\CurrentUserContextMiddleware.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:57:41.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentUserContext.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Services\\CurrentUserContext.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\Services\\CurrentUserContext.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Services\\CurrentUserContext.cs",
+              "RelativeToolTip": "MultiTenantAuth.Api\\Services\\CurrentUserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:48:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICurrentUserContext.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\ICurrentUserContext.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Interfaces\\ICurrentUserContext.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\ICurrentUserContext.cs",
+              "RelativeToolTip": "MultiTenantAuth.Application\\Interfaces\\ICurrentUserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:46:08.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "MultiTenantAuth.Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:18:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "MultiTenantAuth.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:17:02.288Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MultiTenantAuth.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:08:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MultiTenantAuth.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:50:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\Program.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Program.cs",
+              "RelativeToolTip": "MultiTenantAuth.Api\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:49:58.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:36:24.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MultiTenantAuth.Api.http",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\MultiTenantAuth.Api.http",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\MultiTenantAuth.Api.http",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\MultiTenantAuth.Api.http",
+              "RelativeToolTip": "MultiTenantAuth.Api\\MultiTenantAuth.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-30T09:17:42.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\appsettings.json",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\appsettings.json",
+              "RelativeToolTip": "MultiTenantAuth.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T08:43:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\DTOs\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\DTOs\\JwtSettings.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\DTOs\\JwtSettings.cs",
+              "RelativeToolTip": "MultiTenantAuth.Application\\DTOs\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:48:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiTenantAuth.Api",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj",
+              "RelativeToolTip": "MultiTenantAuth.Api\\MultiTenantAuth.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T05:47:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "MultiTenantAuth.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:56:14.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:05:53.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:28:18.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "RolesController.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Api\\Controllers\\RolesController.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Api\\Controllers\\RolesController.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Api\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Controllers\\RolesController.cs",
               "RelativeToolTip": "MultiTenantAuth.Api\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T08:38:09.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 22,
               "Title": "TenantService.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Services\\TenantService.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Services\\TenantService.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Services\\TenantService.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Services\\TenantService.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Services\\TenantService.cs",
               "RelativeToolTip": "MultiTenantAuth.Application\\Services\\TenantService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:37:21.597Z"
+              "WhenOpened": "2025-12-28T08:37:21.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MultiTenantAuth.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wE0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\DTOs\\Dtos.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\DTOs\\Dtos.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\DTOs\\Dtos.cs",
+              "RelativeToolTip": "MultiTenantAuth.Application\\DTOs\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:36:24.674Z"
+              "WhenOpened": "2025-12-28T08:57:18.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
+              "Title": "UserScope.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Enums\\UserScope.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Enums\\UserScope.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Enums\\UserScope.cs",
+              "RelativeToolTip": "MultiTenantAuth.Domain\\Enums\\UserScope.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:27:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "IPermissionService.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Interfaces\\IPermissionService.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\IPermissionService.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Interfaces\\IPermissionService.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Interfaces\\IPermissionService.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Interfaces\\IPermissionService.cs",
               "RelativeToolTip": "MultiTenantAuth.Application\\Interfaces\\IPermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:36:17.297Z"
+              "WhenOpened": "2025-12-28T08:36:17.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
-              "RelativeToolTip": "MultiTenantAuth.Application\\Interfaces\\IApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:05:53.375Z"
+              "WhenOpened": "2025-12-28T05:50:38.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MultiTenantAuth.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T07:06:51.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "RolePermission.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\RolePermission.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\RolePermission.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\RolePermission.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\RolePermission.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\RolePermission.cs",
               "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\RolePermission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:09:01.88Z"
+              "WhenOpened": "2025-12-28T06:09:01.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Permission.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Permission.cs",
-              "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\Permission.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Permission.cs",
-              "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\Permission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:08:53.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "PermissionService.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Services\\PermissionService.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Services\\PermissionService.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Application\\Services\\PermissionService.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\Services\\PermissionService.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\Services\\PermissionService.cs",
               "RelativeToolTip": "MultiTenantAuth.Application\\Services\\PermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwH0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:06:42.88Z"
+              "WhenOpened": "2025-12-28T06:06:42.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\ApplicationRole.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\ApplicationRole.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\ApplicationRole.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\ApplicationRole.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\ApplicationRole.cs",
               "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\ApplicationRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:01:41.642Z"
+              "WhenOpened": "2025-12-28T06:01:41.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T05:50:38.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "TenantType.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\TenantType.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\TenantType.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\TenantType.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\TenantType.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\TenantType.cs",
               "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\TenantType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T05:41:18.325Z"
+              "WhenOpened": "2025-12-28T05:41:18.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 27,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\Permission.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Permission.cs",
+              "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:08:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Tenant.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Tenant.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Tenant.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\Tenant.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Tenant.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Tenant.cs",
               "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\Tenant.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswBUAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T05:40:21.526Z"
+              "WhenOpened": "2025-12-28T05:40:21.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 29,
               "Title": "Merchant.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Merchant.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Merchant.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\Merchant.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Merchant.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Merchant.cs",
               "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\Merchant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T05:39:34.991Z"
+              "WhenOpened": "2025-12-28T05:39:34.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "Outlet.cs",
-              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Outlet.cs",
+              "DocumentMoniker": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Outlet.cs",
               "RelativeDocumentMoniker": "MultiTenantAuth.Domain\\Entities\\Outlet.cs",
-              "ToolTip": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\Entities\\Outlet.cs",
+              "ToolTip": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\Entities\\Outlet.cs",
               "RelativeToolTip": "MultiTenantAuth.Domain\\Entities\\Outlet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T05:38:33.845Z"
+              "WhenOpened": "2025-12-28T05:38:33.845Z",
+              "EditorCaption": ""
             }
           ]
         }

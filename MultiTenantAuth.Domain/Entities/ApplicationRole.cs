@@ -7,8 +7,9 @@ namespace MultiTenantAuth.Domain.Entities
     public class ApplicationRole : IdentityRole<Guid>
     {
         public string? Description { get; set; }
-        public Guid TenantId { get; set; }
+        public Guid? TenantId { get; set; } = Guid.Empty;
         public Tenant Tenant { get; set; }
+        public bool IsSystemRole { get; set; }
         public string DisplayName { get; set; } = string.Empty;
         public ICollection<RolePermission> RolePermissions { get; set; } = new List<RolePermission>();
       //  public ICollection<TenantUserRole> TenantUserRoles { get; set; } = new List<TenantUserRole>();

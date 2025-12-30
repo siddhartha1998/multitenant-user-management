@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj": {}
+    "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj": {}
   },
   "projects": {
-    "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj": {
+    "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj",
+        "projectUniqueName": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj",
         "projectName": "MultiTenantAuth.Application",
-        "projectPath": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj",
+        "projectPath": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\MultiTenantAuth.Application.csproj",
         "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Application\\obj\\",
+        "outputPath": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj": {
-                "projectPath": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj"
+              "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj": {
+                "projectPath": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj"
               }
             }
           }
@@ -57,6 +57,18 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.15.0, )"
             }
           },
           "imports": [
@@ -79,14 +91,14 @@
         }
       }
     },
-    "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj": {
+    "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj",
+        "projectUniqueName": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj",
         "projectName": "MultiTenantAuth.Domain",
-        "projectPath": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj",
+        "projectPath": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\MultiTenantAuth.Domain.csproj",
         "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning Project\\asp.net core\\scratch\\MultiTenantAuth.Domain\\obj\\",
+        "outputPath": "D:\\Learning Project\\asp.net core\\multitenant-user-management\\MultiTenantAuth.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

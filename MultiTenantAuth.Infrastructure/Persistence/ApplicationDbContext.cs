@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using MultiTenantAuth.Domain.Entities;
 using MultiTenantAuth.Application.Interfaces;
+using MultiTenantAuth.Domain.Entities;
 using System;
+using System.Reflection.Emit;
 
 namespace MultiTenantAuth.Infrastructure.Persistence
 {
@@ -17,6 +18,9 @@ namespace MultiTenantAuth.Infrastructure.Persistence
         public DbSet<TenantType> TenantTypes { get; set; }
         public DbSet<Permission> Permissions { get; set; }
         public DbSet<RolePermission> RolePermissions { get; set; }
+        public DbSet<Merchant> Merchants {  get; set; }
+        public DbSet<Outlet> Outlets { get; set; }
+        public DbSet<RefreshToken> RefreshTokens {  get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

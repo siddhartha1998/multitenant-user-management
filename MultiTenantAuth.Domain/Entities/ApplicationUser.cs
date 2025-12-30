@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Identity;
+using MultiTenantAuth.Domain.Enums;
 using System;
 using System.Collections.Generic;
 
@@ -6,7 +7,8 @@ namespace MultiTenantAuth.Domain.Entities
 {
     public class ApplicationUser : IdentityUser<Guid>
     {
-        public Guid TenantId { get; set; }
+        public UserScope Scope { get; set; }
+        public Guid? TenantId { get; set; }
         public Tenant Tenant { get; set; } = null!;
 
         public Guid? MerchantId { get; set; }

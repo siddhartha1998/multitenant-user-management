@@ -11,6 +11,9 @@ namespace MultiTenantAuth.Application.Interfaces
         DbSet<TenantType> TenantTypes { get; }
         DbSet<Permission> Permissions { get; }
         DbSet<RolePermission> RolePermissions { get; }
+        DbSet<Merchant> Merchants { get; }
+        DbSet<Outlet> Outlets { get; }
+        DbSet<RefreshToken> RefreshTokens { get; }
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     }
 }
